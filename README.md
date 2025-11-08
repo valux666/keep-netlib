@@ -2,6 +2,10 @@
 这是一个用于自动登录 Netlib 网站以保持账户活跃的脚本，配合 GitHub Actions 实现自动定时执行。
 
 注册地址：https://www.netlib.re
+
+视频教程地址：https://youtu.be/7laVmEfgC9o
+
+
 ### 功能特点
 - 🔐 自动登录 Netlib 账户(单账户或多账户)
 - 👥 支持多账户批量处理
